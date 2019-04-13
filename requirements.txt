@@ -1,0 +1,4 @@
+pytorch1.0
+opencv3
+numpy
+os
