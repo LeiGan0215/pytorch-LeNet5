@@ -1,5 +1,5 @@
 pytorch1.0
-
+python3.6
 opencv3
 numpy
 os
